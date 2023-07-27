@@ -10,3 +10,5 @@ JavaScript
 VS code
 Chrome
 Atom
+# Acknowledgment
+The Meal DB API (https://www.themealdb.com
